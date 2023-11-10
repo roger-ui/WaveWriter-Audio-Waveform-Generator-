@@ -51,6 +51,7 @@ To use the WaveFileGenerator, run the executable from the command line with the 
 
 ### Licence 
 
-WaveFileGenerator is licensed under the MIT License. The software as a whole is provided under this license. 
+WaveFileGenerator is licensed under the MIT License. 
 
-See LICENSE in this repository for details.
+See [LICENCE](https://github.com/roger-ui/WaveWriter-Audio-Waveform-Generator-/blob/master/LICENSE.txt) in this repository for details.
+
