@@ -9,7 +9,7 @@ Additional features include the application of low-pass filtering, amplitude mod
 
 1. Clone the repository:
    ```
-   git clone [repository URL]
+   git clone [https://github.com/roger-ui/WaveWriter-Audio-Waveform-Generator-.git]
    ```
 2. Navigate to the cloned directory:
    ```
