@@ -1,4 +1,4 @@
-# Wave Audio File Generator
+# Wave Writer Audio Waveform Generator
 
 ## Description
 This C++ program generates various types of sound waves and writes them to a WAV file. It supports wave types like square, sawtooth, triangle, sine, white noise, brown noise, and chirp. The program is also capable of creating WAV files shorter than 1 second. 
@@ -51,7 +51,7 @@ To use the WaveFileGenerator, run the executable from the command line with the 
 
 ### Licence 
 
-WaveFileGenerator is licensed under the MIT License. 
+Wave Writer Audio Waveform Generator is licensed under the MIT License. 
 
 See [LICENCE](https://github.com/roger-ui/WaveWriter-Audio-Waveform-Generator-/blob/master/LICENSE.txt) in this repository for details.
 
